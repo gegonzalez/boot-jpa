@@ -1,4 +1,4 @@
-package com.in28minutes.learning.jpa.jpain10steps;
+package com.jpa.test.entity;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -12,5 +12,12 @@ public class JpaIn10StepsApplicationTests {
 	@Test
 	public void contextLoads() {
 	}
+// 	@Autowired
+//	 private HomeController controller;
+//	  
+//	@Test
+//	public void contextLoads() {
+//		assertThat(controller).isNotNull();
+//	}
 
 }
